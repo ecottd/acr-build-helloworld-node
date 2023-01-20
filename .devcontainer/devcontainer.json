@@ -3,8 +3,10 @@
   "features": {
   },
   "extensions": [
-    "eamodio.gitlens",
-    "hashicorp.terraform",
-    "ms-azuretools.vscode-bicep"
-  ]
+	"eamodio.gitlens",
+	"hashicorp.terraform",
+	"ms-azuretools.vscode-bicep",
+	"rangav.vscode-thunder-client",
+	"MS-vsliveshare.vsliveshare"
+]
 }
