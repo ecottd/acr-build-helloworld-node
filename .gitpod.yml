@@ -10,4 +10,4 @@ vscode:
     - redhat.vscode-yaml# Learn more from ready-to-use templates: https://www.gitpod.io/docs/introduction/getting-started/quickstart
     - streetsidesoftware.code-spell-checkertasks:
     - formulahendry.code-runner  - init: npm install
-    command: npm run start
+    - rangav.vscode-thunder-client  command: npm run start
