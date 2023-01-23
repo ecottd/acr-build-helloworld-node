@@ -8,6 +8,6 @@ vscode:
     - esbenp.prettier-vscodew.gitpod.io/docs/introduction/learn-gitpod/gitpod-yaml)
     - rangav.vscode-thunder-client# and commit this file to your remote git repository to share the goodness with others.
     - redhat.vscode-yaml# Learn more from ready-to-use templates: https://www.gitpod.io/docs/introduction/getting-started/quickstart
-    - streetsidesoftware.code-spell-checkertasks:
-    - formulahendry.code-runner  - init: npm install
-    - rangav.vscode-thunder-client  command: npm run start
+    - streetsidesoftware.code-spell-checker
+    - formulahendry.code-runner
+    - rangav.vscode-thunder-client
